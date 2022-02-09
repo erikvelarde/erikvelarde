@@ -1,13 +1,13 @@
 <h1 align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="cover" />
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" 
+  object-fit="cover" heigth="100px"  alt="cover" />
 </h1>
 
-## Hey! 👋
+## Hey what's up! 👋
 I'm Freddy, a 20 years old web developer from Bolivia.
 
 <!-- - 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto) -->
 
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
 
 ## Skills
 - 👨‍💻 JavaScript, NodeJs
