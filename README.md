@@ -1,7 +1,7 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" 
-  object-fit="cover" heigth="100px"  alt="cover" />
-</h1>
+  object-fit="cover" height="100px"  alt="cover" />
+</h1> -->
 
 ## Hey what's up! 👋
 I'm Freddy, a 20 years old web developer from Bolivia.
@@ -11,8 +11,8 @@ I'm Freddy, a 20 years old web developer from Bolivia.
 
 ## Skills
 - 👨‍💻 JavaScript, NodeJs
-- ⚙️ React, react-router, redux
-- 👁️ CSS, Styled-components
+- ⚙️ ReactJs, react-router, redux
+- 👁️ CSS, Styled-components, Html
 - 💽 Mongodb
 
 ## Contact
