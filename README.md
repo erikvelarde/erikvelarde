@@ -13,7 +13,7 @@ I'm Freddy, a 20 years old web developer from Bolivia.
 - 👨‍💻 JavaScript, NodeJs
 - ⚙️ ReactJs, react-router, redux
 - 👁️ CSS, Styled-components, Html
-- 💽 Mongodb
+- 💽 Mongodb-mongoose, Postgresql-sequelize
 
 ## Contact
 <!-- - [marton.lederer.hu](https://marton.lederer.hu) -->
