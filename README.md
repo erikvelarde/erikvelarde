@@ -4,12 +4,12 @@
 </h1> -->
 
 ## Hey what's up! 👋
-I'm Freddy, a 20 years old web developer from Bolivia.
+I'm Freddy, from Bolivia.
 
 <!-- - 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto) -->
 
 
-## Skills
+## Skills - Web Development
 - 👨‍💻 JavaScript, NodeJs
 - ⚙️ ReactJs, react-router, redux
 - 👁️ CSS, Styled-components, Html
