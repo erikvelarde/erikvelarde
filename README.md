@@ -17,6 +17,4 @@ I'm Freddy, a 20 years old web developer from Bolivia.
 
 ## Contact
 <!-- - [marton.lederer.hu](https://marton.lederer.hu) -->
-- [@Freddy Velarde](https://www.linkedin.com/in/fevs/) on LinkedIn
 - [@Freddy Velarde](https://www.facebook.com/freddy.velarde.969/) on Facebook
-- [@Portfolio](https://freddyvelarde.netlify.app/) on my own site
