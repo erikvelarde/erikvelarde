@@ -17,4 +17,3 @@ I'm Freddy, from Bolivia.
 
 ## Contact
 <!-- - [marton.lederer.hu](https://marton.lederer.hu) -->
-- [@Freddy Velarde](https://www.facebook.com/freddy.velarde.969/) on Facebook
