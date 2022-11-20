@@ -9,11 +9,18 @@ I'm Freddy, from Bolivia.
 <!-- - 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto) -->
 
 
-## Skills - Web Development
+## Skills - Web Development:
 - 👨‍💻 JavaScript, NodeJs
 - ⚙️ ReactJs, react-router, redux
 - 👁️ CSS, Styled-components, Html
 - 💽 Mongodb-mongoose, Postgresql-sequelize
 
-## Contact
+## Programming Languages Skills:
+- Javascript
+- Python
+
+## Currently Learning:
+- Rust
+- Go (golang)
+
 <!-- - [marton.lederer.hu](https://marton.lederer.hu) -->
