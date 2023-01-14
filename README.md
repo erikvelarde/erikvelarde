@@ -21,6 +21,5 @@ I'm Freddy, from Bolivia.
 
 ## Currently Learning:
 - Rust
-- Go (golang)
 
 <!-- - [marton.lederer.hu](https://marton.lederer.hu) -->
