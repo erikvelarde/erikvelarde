@@ -4,7 +4,7 @@
 </h1> -->
 
 ## Hey what's up! 👋
-Hello, my name is Freddy Erick Velarde S. and I am a software developer with a passion for open-source projects and Linux.
+Hello, my name is Freddy Erick Velarde Silva. and I am a software developer with a passion for open-source projects and Linux.
 
 I am a strong believer in the power of open-source software to drive innovation and collaboration in the tech community. I enjoy contributing to open-source projects and have experience in some programming languages, such as javascript and python
 
