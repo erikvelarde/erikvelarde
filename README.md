@@ -1,8 +1,3 @@
-<!-- <h1 align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" 
-  object-fit="cover" height="100px"  alt="cover" />
-</h1> -->
-
 ## Hey what's up! 👋
 Hello, my name is Freddy Erick Velarde Silva. and I am a software developer with a passion for open-source projects and Linux.
 
@@ -18,16 +13,16 @@ Thank you for visiting my Github profile. I look forward to connecting with othe
 
 
 ## Skills - Web Development:
-- 👨‍💻 JavaScript, NodeJs
+### Frontend:
 - ⚙️ ReactJs, react-router, redux
 - 👁️ CSS, Styled-components, Html
+### Backend
+- 👨‍💻 JavaScript, ExpressJs
 - 💽 Mongodb-mongoose, Postgresql-sequelize
 
-## Programming Languages Skills:
+## Programming Language Skills:
 - Javascript
 - Python
 
 ## Currently Learning:
 - Rust
-
-<!-- - [marton.lederer.hu](https://marton.lederer.hu) -->
