@@ -1,5 +1,8 @@
 ## Hey what's up! 👋
-I really love to programming a get and learn about differents challenges from backend to code a CLI app.
+
+I do love programming, get different challenges and at the same time, learn through it.
+
+I've been coding for the last 3 years on different personal projects, from React.js front-end projects to Rust CLI apps.
 
 ## Skills - Web Development:
 ### Frontend:
