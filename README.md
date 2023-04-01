@@ -6,16 +6,16 @@ I'm a passionate programmer who loves taking on new challenges and constantly le
 
 I learned everything about software development through self-study using online resources, primarily relying on the internet to expand my knowledge and skills in programming languages, tools, and frameworks.
 
-## So, what about university (college)?
+### So, what about university (college)?
 
 I'm currently attending university (UMSA), but to be honest my main focus is on my coding projects. Although I find that university has helped me connect with like-minded individuals who share my passion for programming and software development.
 
-## Skills
-### Web Development
-#### Frontend
+# Skills
+## Web Development
+### Frontend
 - ⚙️ React.js, React Router, Redux
 - 👁️ CSS, Styled-Components, HTML
-#### Backend
+### Backend
 - 👨‍💻 JavaScript, Express.js
 - 💽 MongoDB-Mongoose, PostgreSQL-Sequelize
 -  Devops: Docker containers
