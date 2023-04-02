@@ -27,3 +27,6 @@ I'm currently attending university (UMSA), but to be honest my main focus is on 
 ## Currently Learning
 - Rust
 - Go
+
+### Do you want to see some of my projects?
+Check this out :point_down:
