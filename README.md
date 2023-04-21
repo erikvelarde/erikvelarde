@@ -1,5 +1,7 @@
 # Hey, I'm Freddy Velarde! 👋
 
+![Profile Picture](link-to-your-image)
+
 I'm a passionate programmer who loves taking on new challenges and constantly learning. I have been coding for the past 3 years, working on a variety of personal projects ranging from React.js front-end projects to Rust CLI apps. I'm also a big fan of Linux and love exploring its different distributions and features.
 
 ## Where did I learn about software development?
@@ -18,15 +20,14 @@ I'm currently attending university (UMSA), but to be honest my main focus is on 
 ### Backend
 - 👨‍💻 JavaScript, Express.js
 - 💽 MongoDB-Mongoose, PostgreSQL-Sequelize
--  Devops: Docker containers
+- 🐳 Devops: Docker containers
 ## Programming Languages
 - JavaScript
 - Python
-
 
 ## Currently Learning
 - Rust
 - Go
 
 ### Do you want to see some of my projects?
-Check this out :point_down:
+Check this out :point_down: 
