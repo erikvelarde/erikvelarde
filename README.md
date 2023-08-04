@@ -20,7 +20,7 @@ Currently, I am pursuing a degree in computer science at UMSA (University of My 
 - 💽 MongoDB-Mongoose, PostgreSQL-Sequelize
 - 🐳 Devops: Docker containers
 ## Programming Languages
-- JavaScript
+- JavaScript/Typescript
 - Python
 
 ## Currently Learning
