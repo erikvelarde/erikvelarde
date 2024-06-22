@@ -26,9 +26,11 @@ Currently, I am pursuing a degree in computer science at UMSA (University of My 
 ## Programming Languages
 - JavaScript/Typescript
 - Python
+- Java
 
 ## Currently Learning
-- java / spring boot
+- Spring Boot
+- Php - Laravel
 
 ### Do you want to see some of my projects?
 Check this out :point_down: 
