@@ -10,19 +10,11 @@ I learned everything about software development through self-study using online 
 Currently, I am pursuing a degree in computer science at UMSA (University of My Studies and Ambitions). My goal is to graduate in 2026 and continue honing my skills in software development while applying my knowledge to real-world challenges.
 -->
 
-- A passionate fullstack programmer.
-- Currently pursuing a degree in computer science at UMSA.
+- A passionate programmer.
+- Computer Science student (University: UMSA).
 
 
 # Skills
-## Web Development
-### Frontend
-- ⚙️ React.js, React Router, Redux
-- 👁️ CSS, Styled-Components, HTML
-### Backend
-- 👨‍💻 JavaScript, Express.js
-- 💽 PostgreSQL-Sequelize and prisma
-- 🐳 Devops: Docker containers
 ## Programming Languages
 - JavaScript/Typescript
 - Python
@@ -31,6 +23,7 @@ Currently, I am pursuing a degree in computer science at UMSA (University of My 
 ## Currently Learning
 - Spring Boot
 - Php - Laravel
+- C/C++
 
 ### Do you want to see some of my projects?
 Check this out :point_down: 
