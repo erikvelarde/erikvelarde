@@ -1,29 +1,63 @@
-# Hey, I'm Erick Velarde! 👋
+# <div align="center">👋 Hello, I'm Erick Velarde</div>
 
-<!--  I'm a passionate programmer who loves taking on new challenges and constantly learning. I have been coding for the past 3 years, working on a variety of personal projects ranging from React.js front-end projects to Rust CLI apps. I'm also a big fan of Linux and love exploring its different distributions and features.
+<div align="center">
+  <img src="https://img.shields.io/badge/CS%20Student-UMSA-blue?style=for-the-badge" alt="CS Student at UMSA"/>
+  <img src="https://img.shields.io/badge/Self%20Taught-Developer-orange?style=for-the-badge" alt="Self-taught Developer"/>
+</div>
 
-## Where did I learn about software development?
-
-I learned everything about software development through self-study using online resources, primarily relying on the internet to expand my knowledge and skills in programming languages, tools, and frameworks. 
-### Education?
-
-Currently, I am pursuing a degree in computer science at UMSA (University of My Studies and Ambitions). My goal is to graduate in 2026 and continue honing my skills in software development while applying my knowledge to real-world challenges.
--->
-
-- A passionate programmer.
-- Computer Science student (University: UMSA).
+## 💻 About Me
 
 
-# Skills
-## Programming Languages
-- JavaScript/Typescript
-- Python
-- Java
+```javascript
+const erick = {
+  passion: "Software Development",
+  education: "Computer Science @ UMSA (graduating 2026)",
+  interests: [
+    "Open Source", 
+    "Linux", 
+    "Problem Solving", 
+    "Math (Im not good at it)"
+  ],
+  experience: "4+ years coding personal projects"
+}
+```
 
-## Currently Learning
-- Spring Boot
-- Php - Laravel
-- C/C++
+## 🛠️ Programming Languages
 
-### Do you want to see some of my projects?
-Check this out :point_down: 
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+</div>
+
+## 📚 Currently Learning
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C/C++"/>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erikvelarde&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</div>
+
+## 🚀 Featured Projects
+
+Check out my pinned repositories below for my best work!
+
+<div align="center">
+  <a href="https://github.com/erikvelarde?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-4c1?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <b>Let's connect and build something amazing!</b>
+</div>
